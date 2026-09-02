@@ -1,5 +1,3 @@
-[README_deepfake.md](https://github.com/user-attachments/files/31750743/README_deepfake.md)
-
 # Multimodal Deepfake Detection
 
 Audio-visual deepfake detection using dual ResNet-18 feature extractors and cross-attention fusion on the FakeAVCeleb v1.2 dataset.
