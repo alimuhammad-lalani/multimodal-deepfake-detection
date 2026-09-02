@@ -172,6 +172,8 @@ multimodal-deepfake-detection/
 │   └── evaluate.py
 ├── figures/
 │   └── validation_confusion_matrix.png
+│   └── model_architecture.png
+│   └── training/validation_results.png
 ├── presentation/
 │   └── deepfake_detection_presentation.pdf
 ├── DATASET.md
